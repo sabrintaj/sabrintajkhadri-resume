@@ -24,6 +24,8 @@ I’m excited to join a dynamic team where I can **grow, contribute, and keep le
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=FFFFFF)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=FFFFFF)
 
 ---
 
@@ -53,10 +55,7 @@ I’m excited to join a dynamic team where I can **grow, contribute, and keep le
 
 ---
 
-## 📈 GitHub Stats
-[![Sabrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabrintajkhadri&show_icons=true&theme=radical)](https://github.com/sabrintajkhadri)
 
----
 
 ## 🔗 Connect with Me
 - [LinkedIn](Your-LinkedIn-URL)  
