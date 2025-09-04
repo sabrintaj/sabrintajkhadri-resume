@@ -59,6 +59,5 @@ I’m excited to join a dynamic team where I can **grow, contribute, and keep le
 
 
 ## 🔗 Connect with Me
-- [LinkedIn](Your-LinkedIn-URL)  
 - [Email](mailto:syedasabreentaj05@gmail.com)  
 - Phone: 8073744678
