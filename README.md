@@ -4,7 +4,7 @@
 📍 Bangalore, India  
 📧 [syedasabreentaj05@gmail.com](mailto:syedasabreentaj05@gmail.com)  
 📞 8073744678  
-🔗 [LinkedIn](Your-LinkedIn-URL)  
+
 
 ---
 
@@ -33,7 +33,8 @@ I’m excited to join a dynamic team where I can **grow, contribute, and keep le
 
 ### 1️⃣ FinanceMe – Banking Project
 - Practiced **CI/CD, Docker, Kubernetes, AWS deployment**
-- [GitHub Repository](https://github.com/sabrintajkhadri/star-agile-banking-finance)  
+[FinanceMe Project](https://github.com/sabrintaj/star-agile-banking-finance)
+
 
 ### 2️⃣ Insurance Project
 - Practiced **Jenkins pipelines, Docker, Kubernetes, monitoring**
