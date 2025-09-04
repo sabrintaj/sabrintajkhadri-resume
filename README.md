@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sabrin Taj Khadri
+O# 👋 Hi, I'm Sabrin Taj Khadri
 **MCA Graduate | DevOps Enthusiast | Cloud & CI/CD Practitioner**  
 
 📍 Bangalore, India  
